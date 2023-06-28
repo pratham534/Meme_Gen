@@ -8,7 +8,7 @@ export default function Header() {
                 src={require("../images/troll-face.png") }
                 className="header--image"
             />
-            <h2 className="header--title">Meme Generator</h2>
+            <h2 className="header--title">Meme</h2>
         </header>
     )
 }
